@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style_survey.css">
     <link rel="stylesheet" href="style_article.css">
+    <link rel="stylesheet" href="style_about.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="script.js"></script>
     <link rel="shortcut icon" href="pics\completed-task.ico" type="image/x-icon">
@@ -19,6 +20,7 @@
         <a data-page="home" class="" href="index.php">Home</a>
         <a data-page="solution" class="" href="solution.php">Solution</a>
         <a data-page="survey" class="active" href="survey.php">Survey</a>
+        <a data-page="about" class="" href="about.php">About</a>
     </nav>
 
     <div class="title_div">
